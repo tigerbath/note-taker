@@ -1,4 +1,4 @@
-# Note Taker Application[MIT license](https://img.shields.io/badge/license-MIT-green)
+# Note Taker Application
 
 ## Description
 
