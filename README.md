@@ -35,7 +35,7 @@ npm install
 
 ## Link to Deployed Heroku Application
 
-Click [here](https://guarded-oasis-31752.herokuapp.com/notes) to view the app.
+Click [here](https://guarded-oasis-31752.herokuapp.com/) to view the app.
 
 ## License
 
