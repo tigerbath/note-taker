@@ -1,17 +1,1 @@
-[
-  {
-    "title": "Go to dentist",
-    "text": "Dentist appointment at 9am",
-    "id": "cd16e103-6e3e-4c25-aeb4-8b69de3ce85f"
-  },
-  {
-    "title": "Buy birthday present",
-    "text": "Buy present for sister's birthday",
-    "id": "8cfdc2fd-2046-4560-91dd-8fa06355cab4"
-  },
-  {
-    "title": "Shopping List",
-    "text": "- Bread\n- Milk\n- Cheese",
-    "id": "42c4baaa-247d-4ccc-9dcf-16b129a91e57"
-  }
-]
+[{"title":"Complete my homework","text":"get it done!","id":"9b4906e8-4620-446c-bad4-f39193c12f0a"},{"title":"Piano lesson","text":"Become a master in one hour ","id":"87e80532-70d6-4fb4-b026-6723c2a3a395"}]
