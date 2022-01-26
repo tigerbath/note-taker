@@ -1,42 +1,47 @@
-# note-taker
-
-Note taker Application
-
-# Links
-
-- Deployed Heroku Link
-- Link To Video Runthrough
+# Note Taker Application[MIT license](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
 
-## User Story
+A node project which involved creating the server-side modules for a note-taker app. Using Express.js to add, retrieve and delete information from a database to enable the user to save and view the notes that they have saved. The NPM package, UUID was used to generate unique ID's for each note that is saved to the database.
 
-## Tools/Technologies
+## Table of Contents
 
-## Endpoints
+[Description](#description)  
+[Technologies Used](#technologies-used)  
+[Getting Started](#getting-started)  
+[Link to Deployed Application](#link-to-deployed-heroku-application)  
+[License](#license)  
+[Questions](#questions)
 
-### /API
+## Technologies Used
 
-- GET /notes
-  This will Return an array of notes
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Node.js
+- Express.js
+- UUID NPM package
+- Heroku
 
-see sample response:
+## Getting Started
 
-```json
-[{}]
+```
+git clone git@github.com:tigerbath/note-taker.git
+cd note-taker
+code .
+npm install
 ```
 
-- POST /notes
-  This will create a new note
+## Link to Deployed Heroku Application
 
-```
-{
-    "title": "your title",
-    "text": "your text"
-}
-```
+Click [here](https://guarded-oasis-31752.herokuapp.com/notes) to view the app.
 
-- DELETE /notes:id
-  This will delete a note by ID
+## License
 
-## Screenshots
+This app is licensed by MIT.
+
+## Questions
+
+- Visit my [Github](https://github.com/tigerbath)
+- Find me on [LinkedIn](https://linkedin.com/in/matthew-palmer-a13aab156/)
